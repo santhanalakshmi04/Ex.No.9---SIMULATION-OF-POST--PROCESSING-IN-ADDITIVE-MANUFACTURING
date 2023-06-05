@@ -47,8 +47,12 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![image](https://github.com/santhanalakshmi04/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119475762/64145199-7cf3-4ae5-b04b-02053b92239b)
+
+![image](https://github.com/santhanalakshmi04/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119475762/e008402c-a182-4c16-96f4-3e613016e9cd)
+
+### Name: K.SANTHANA LAKSHMI
+### Register Number: 212222240091
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
